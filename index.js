@@ -234,7 +234,7 @@ promise
 
 //fetch
 
-fetch( 'https://github.com/MariaProgrammer/testJson.git' )
+fetch( 'https://mariaprogrammer.github.io/testJson/' )
 .then( response => response.json( ) )
 .then( data => list10( data ) )
 .catch( err => console.log( err ) )
