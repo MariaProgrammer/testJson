@@ -1,0 +1,10 @@
+* {
+    font: 1em sans-serif;
+  }
+  form {
+    width: 500px;
+    height: 100px;
+    background: url(bg.png);
+  }
+
+  
